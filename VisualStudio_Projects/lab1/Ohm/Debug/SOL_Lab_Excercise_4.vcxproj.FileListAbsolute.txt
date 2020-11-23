@@ -1,0 +1,4 @@
+C:\Users\Adelina\Desktop\HAW BS IuE\SOL\SOL_Lab_Excercise_4\Debug\SOL_Lab_Excercise_4.exe
+C:\Users\Adelina\Desktop\HAW BS IuE\SOL\SOL_Lab_Excercise_4\Debug\SOL_Lab_Excercise_4.pdb
+C:\Users\Adelina\Desktop\HAW BS IuE\SOL\Ohm\Debug\SOL_Lab_Excercise_4.exe
+C:\Users\Adelina\Desktop\HAW BS IuE\SOL\Ohm\Debug\SOL_Lab_Excercise_4.pdb

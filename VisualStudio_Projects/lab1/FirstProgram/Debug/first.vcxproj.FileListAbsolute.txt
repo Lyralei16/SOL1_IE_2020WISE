@@ -1,0 +1,4 @@
+C:\Users\Adelina\Desktop\HAW BS IuE\SOL\first\Debug\first.exe
+C:\Users\Adelina\Desktop\HAW BS IuE\SOL\first\Debug\first.pdb
+C:\Users\Adelina\Desktop\HAW BS IuE\SOL\FirstProgram\Debug\first.exe
+C:\Users\Adelina\Desktop\HAW BS IuE\SOL\FirstProgram\Debug\first.pdb
